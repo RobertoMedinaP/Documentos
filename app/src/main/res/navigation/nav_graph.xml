@@ -40,5 +40,14 @@
         android:id="@+id/compraReembolsoFragment"
         android:name="serco.project.documentos.CompraReembolsoFragment"
         android:label="fragment_compra_reembolso"
-        tools:layout="@layout/fragment_compra_reembolso" />
+        tools:layout="@layout/fragment_compra_reembolso" >
+        <action
+            android:id="@+id/action_compraReembolsoFragment_to_activosFragment"
+            app:destination="@id/activosFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/activosFragment"
+        android:name="serco.project.documentos.ActivosFragment"
+        android:label="fragment_activos"
+        tools:layout="@layout/fragment_activos" />
 </navigation>
