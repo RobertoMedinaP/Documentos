@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Documentos</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="compra_asistida">Compra asistida</string>
+    <string name="compra_reembolso">Compra reembolso</string>
+    <string name="asesoria">Asesoría</string>
+    <string name="capacitacion">Capacitación</string>
+    <string name="publicidad">Publicidad</string>
+    <string name="activos">Activos</string>
+    <string name="infraestructura">Infraestructura</string>
+    <string name="capital_trabajo">Capital de trabajo</string>
+    <string name="activo_fijo">Activo fijo</string>
+    <string name="intangible">Intangible</string>
+    <string name="documentacion">Documentación</string>
+    <string name="factura_electronica">Factura electrónica</string>
+    <string name="foto_producto">Fotografía de los productos</string>
+    <string name="acta_recepcion_bienes">Acta de recepción conforme de bienes y/o servicios</string>
+    <string name="comprobante_pago">Comprobante de pago de la factura</string>
+    <string name="datos_bancarios">Datos bancacioes empresa beneficiaria</string>
+    <string name="acta_recepcion_documentos">Acta de recepción de documentos</string>
+    <string name="Bienvenida">Bienvenida/o</string>
+    <string name="motivo">Le ayudaré con los documentos necesarios para su postulación a proyectos Sercotec. Por favor presione en el tipo de compra</string>
+    <string name="opcion_compra_reembolso">Por favor presione en el tipo de compra</string>
+
+
+    <string name="lorem_ipsum">
+        Lorem ipsum
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
