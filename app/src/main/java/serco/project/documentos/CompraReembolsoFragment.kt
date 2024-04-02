@@ -47,6 +47,10 @@ class CompraReembolsoFragment : Fragment() {
             findNavController().navigate(R.id.action_compraReembolsoFragment_to_activosFragment)
         }
 
+        binding.btasesoria.setOnClickListener {
+            findNavController().navigate(R.id.action_compraReembolsoFragment_to_asesoriaFragment)
+        }
+
 
     }
 
